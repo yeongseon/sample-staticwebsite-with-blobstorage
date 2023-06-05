@@ -1,0 +1,1 @@
+# sample-staticwebsite-with-blobstorage
